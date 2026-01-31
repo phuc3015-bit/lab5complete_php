@@ -1,0 +1,17 @@
+{
+    "name": "lenovo/lab5_mvc",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\Lab5Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "phuc"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.24"
+    }
+    
+}
